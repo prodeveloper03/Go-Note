@@ -1,7 +1,7 @@
 # Go-Note
 For the code move to the master->> branch
 ---------------------------------------------------
-                  ABOUT THE APP
+                                               ABOUT THE APP
 ---------------------------------------------------             
              
 GO-NOTE is  an android application which will help you
@@ -11,6 +11,6 @@ tags which allow to remember the priority note.
 
 
 ----------------------------------------------------
-                   SCREENSHOTS
+                                               SCREENSHOTS
 ----------------------------------------------------                   
                    
