@@ -12,7 +12,7 @@ your notes as per your requirements .
 
 
 ----------------------------------------------------
-                                               SCREENSHOTS
+                                            APP DEMO AND SCREENSHOTS
 ----------------------------------------------------                   
  
  
