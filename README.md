@@ -19,6 +19,65 @@ your notes as per your requirements .
  https://user-images.githubusercontent.com/62813305/118232268-ea68a300-b4ad-11eb-8006-f09b93d2654a.mov
  
  
+ 
+ <img width="417" alt="Screenshot 2021-05-14 at 11 50 47 AM" src="https://user-images.githubusercontent.com/62813305/118234224-afb43a00-b4b0-11eb-84b8-79dee678e120.png">
+ 
+ 
+--------------------------------------------------------------------------------------- 
+
+
+<img width="420" alt="Screenshot 2021-05-14 at 11 51 42 AM" src="https://user-images.githubusercontent.com/62813305/118234226-b17dfd80-b4b0-11eb-9f9e-05c0350fcdaf.png">
+
+
+
+ 
+--------------------------------------------------------------------------------------- 
+
+
+<img width="404" alt="Screenshot 2021-05-14 at 11 51 58 AM" src="https://user-images.githubusercontent.com/62813305/118234233-b347c100-b4b0-11eb-8277-668c68514d4c.png">
+
+
+
+
+ 
+--------------------------------------------------------------------------------------- 
+
+
+<img width="420" alt="Screenshot 2021-05-14 at 11 51 48 AM" src="https://user-images.githubusercontent.com/62813305/118234238-b478ee00-b4b0-11eb-9ff5-fb6ab54bc9c3.png">
+
+
+
+
+ 
+--------------------------------------------------------------------------------------- 
+
+
+<img width="432" alt="Screenshot 2021-05-14 at 11 52 08 AM" src="https://user-images.githubusercontent.com/62813305/118234243-b5aa1b00-b4b0-11eb-894e-b6f4dafd78d2.png">
+
+
+
+
+
+ 
+--------------------------------------------------------------------------------------- 
+
+<img width="425" alt="Screenshot 2021-05-14 at 11 52 28 AM" src="https://user-images.githubusercontent.com/62813305/118234247-b6db4800-b4b0-11eb-9933-00b399f27d79.png">
+
+
+
+
+ 
+--------------------------------------------------------------------------------------- 
+
+<img width="427" alt="Screenshot 2021-05-14 at 11 57 30 AM" src="https://user-images.githubusercontent.com/62813305/118234252-b80c7500-b4b0-11eb-8c1f-a7189f85900d.png">
+
+
+
+
+
+
+ 
+ 
  ---------------------------------------------------
   Dependencies
 --------------------------------------------------- 
